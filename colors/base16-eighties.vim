@@ -45,7 +45,7 @@ let s:gui0D        = "6699cc"
 let g:base16_gui0D = "6699cc"
 let s:gui0E        = "cc99cc"
 let g:base16_gui0E = "cc99cc"
-let s:gui0F        = "d27b53"
+let s:gui0F        = "888888"
 let g:base16_gui0F = "d27b53"
 
 " Terminal color definitions
